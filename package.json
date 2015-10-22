@@ -1,18 +1,18 @@
 {
-  "name" : "jobs-scraper",
-  "version" : "1.0.0",
-  "description" : "A node.js library for getting jobs listed.",
-  "main" : "api.js",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/keannan5390/Node-Indeed-API.git"
+  "name": "jobs-scraper",
+  "version": "1.0.0",
+  "description": "A node.js library for getting jobs listed.",
+  "main": "api.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rssrujan/jobs-scraper.git"
   },
-  "keywords" : [
+  "keywords": [
     "indeed"
   ],
-  "author" : "Srujan",
-  "devDependencies" : {},
-  "dependencies" : {
-
+  "author": "Srujan",
+  "devDependencies": {},
+  "dependencies": {
+    "elasticsearch": "^8.2.0"
   }
 }
